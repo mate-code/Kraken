@@ -1,7 +1,7 @@
 # Kraken - Forex Forecast
 
 ### Description
-The **Krakan** application was developed for an engineering thesis; it was used to predict future exchange rates. It was written in **Python** using the **Dash framework**, while the AI model was created using technologies such as **Scikit-learn, Numpy, TensorFlow, Matplotlib, Pandas, and Keras**. The database was built using **MySQL**, and historical exchange rate data was retrieved via the **Yahoo Finance API** using a separate script that updated the database daily with new data using a **Cron jobs in Linux**
+The **Krakan** application was developed for an engineering thesis; it was used to predict future exchange rates. It was written in **Python** using the **Dash framework**, while the AI model was created using technologies such as **Scikit-learn, Numpy, TensorFlow, Matplotlib, Pandas, and Keras**. The database was built using **MySQL**, and historical exchange rate data was retrieved via the **Yahoo Finance API** using a separate script that updated the database daily with new data using **Cron jobs in Linux**
 
 ### App building
 1. docker compose build
@@ -9,7 +9,7 @@ The **Krakan** application was developed for an engineering thesis; it was used 
 3. http://localhost:8050/
 
 ### Live Demo
-https://github.com/user-attachments/assets/35cb1ff2-8709-4001-a170-702d83e01e44
+https://github.com/user-attachments/assets/908018f5-040f-4bb6-95b2-d2d48ddca8c2
 
 ### App Design
 <img width="836" height="424" alt="image" src="https://github.com/user-attachments/assets/2f14abf3-a679-49cd-87df-a5adfb2bae79" />
