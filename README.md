@@ -9,7 +9,7 @@ The **Krakan** application was developed for an engineering thesis; it was used 
 3. http://localhost:8050/
 
 ### Live Demo
-https://github.com/user-attachments/assets/908018f5-040f-4bb6-95b2-d2d48ddca8c2
+https://github.com/user-attachments/assets/a861c026-363c-4f05-a6fa-e31e59f707b9
 
 ### App Design
 <img width="836" height="424" alt="image" src="https://github.com/user-attachments/assets/2f14abf3-a679-49cd-87df-a5adfb2bae79" />
